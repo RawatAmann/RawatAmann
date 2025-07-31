@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aman Rawat
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - rawataman135790@gmail.com
 
